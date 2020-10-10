@@ -1,10 +1,10 @@
 {
-  "name": "@chenng/babel-plugin-ivcomponent",
-  "version": "1.0.4",
+  "name": "@mrohyang/babel-plugin-ivcomponent",
+  "version": "1.0.5",
   "main": "lib/babel-plugin-ivcomponent.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ringcrl/babel-plugin-ivcomponent.git"
+    "url": "git@github.com:MrOhyang/babel-plugin-ivcomponent.git"
   },
   "files": [
     "lib"
@@ -13,7 +13,7 @@
     "dev": "webpack --watch",
     "build": "webpack"
   },
-  "author": "Chenng",
+  "author": "MrOhyang",
   "license": "MIT",
   "description": "",
   "dependencies": {
