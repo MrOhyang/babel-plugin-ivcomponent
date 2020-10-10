@@ -13,7 +13,7 @@
     "dev": "webpack --watch",
     "build": "webpack"
   },
-  "author": "MrOhyang",
+  "author": "mrohyang",
   "license": "MIT",
   "description": "",
   "dependencies": {
