@@ -1,6 +1,6 @@
 {
   "name": "@mrohyang/babel-plugin-ivcomponent",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "main": "lib/babel-plugin-ivcomponent.js",
   "repository": {
     "type": "git",
